@@ -1,0 +1,61 @@
+.img {
+    width: 80px;
+}
+
+.jumbotron {
+    background-color: #fff;
+    padding: 4rem 2rem 0rem 2rem;
+    margin-bottom: 0;
+}
+
+.display-4 {
+    text-align: left;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.btn-main {
+    margin-top: 15px;
+    width: 200px;
+    color: #fff;
+    background-color: #8581F6;
+}
+
+.btn-main:hover {
+    color: #fff;
+}
+
+.descr {
+    font-size: 18px;
+}
+
+.title {
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.cb {
+    font-size: 18px;
+}
+
+.card-deck {
+    margin-top: 25px;
+}
+
+.srv {
+    margin-top: 35px;
+}
+
+.srv-d {
+    text-align: center;
+}
+
+.srv-wrp {
+    display: flex;
+    justify-content: center;
+}
